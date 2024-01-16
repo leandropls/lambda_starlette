@@ -1,24 +1,3 @@
-<p align="center">
-  <a href="https://www.starlette.io/"><img width="420px" src="https://raw.githubusercontent.com/encode/starlette/master/docs/img/starlette.png" alt='starlette'></a>
-</p>
-<p align="center">
-    <em>✨ The little ASGI framework that shines. ✨</em>
-</p>
-<p align="center">
-<a href="https://github.com/encode/starlette/actions">
-    <img src="https://github.com/encode/starlette/workflows/Test%20Suite/badge.svg" alt="Build Status">
-</a>
-<a href="https://pypi.org/project/starlette/">
-    <img src="https://badge.fury.io/py/starlette.svg" alt="Package version">
-</a>
-</p>
-
----
-
-**Documentation**: [https://www.starlette.io/](https://www.starlette.io/)
-
----
-
 # Starlette
 
 Starlette is a lightweight [ASGI][asgi] framework/toolkit,
